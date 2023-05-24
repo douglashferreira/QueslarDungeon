@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+input {
+    margin:auto;
+    padding:0.1px;
+}
+
+fieldset{
+    margin: 2px;
+    padding: 10px;
+    border: 1px solid;
+}
+
+legend {
+    font-weight: bold;
+}
+
+.teste {
+    display: inline;
+    margin: 40px 0px;
+}
